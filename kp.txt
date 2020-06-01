@@ -1,9 +1,0 @@
-bangalore
-mangalore
-delhi
-<<<<<<< .merge_file_a14952
-mumbai
-chennai
-=======
-kochi
->>>>>>> .merge_file_a10172
