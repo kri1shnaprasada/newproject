@@ -1,9 +1,0 @@
-hi
-hello
-git 
-python
-python adv
-dev overview
-vc
-edited
-to try fetch
