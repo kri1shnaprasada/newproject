@@ -5,3 +5,4 @@ python
 python advanced
 devops overview
 version control
+automation
